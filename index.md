@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Features](#features)
-* [Later Thoughts](#community-feedback)
+* [Later Thoughts](#later thoughts)
 
 ## Overview 
 
