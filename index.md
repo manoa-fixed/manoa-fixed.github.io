@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Features](#features)
 * [Later Thoughts](#later-thoughts)
-* [Milestones](#milestones.md)
+* [Milestones](#milestones.html)
 
 ## Overview 
 
