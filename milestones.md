@@ -1,3 +1,5 @@
+[Back to homepage](index.html)
+
 ## Table of contents
 
 * [Milestone 1](#Milestone-1)
