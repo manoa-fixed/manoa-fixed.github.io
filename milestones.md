@@ -14,4 +14,14 @@ Member Responsibilites:
 * Roman : Will incorporate the mapping aspect of the site. Also implement the photo uploading.
 * Corben : Back-End engineer. Will manage the database information. Implements Email Notification feature.
 
+Within the first week of starting the project, we managed to get a working landing page. We also managed to get something that we deemed visually satisfying.
+
 <img src="landing.PNG">
+
+Next, we designed the beginnings of our Add Report tab.
+
+<img src="landing.PNG">
+
+Going forward, we still need to get it working database-wise. We will also need to work on the other two tabs because, as of now, they have no connection to the overall goal of the site. This is in part to time constraints, as well as a higher difficulty in implementing them. 
+
+Overall, this was a successful first week and milestone!
