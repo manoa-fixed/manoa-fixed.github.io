@@ -13,3 +13,5 @@ Member Responsibilites:
 * Yuuma : Front-End designer. Codes the visual side of the site. Must have the page look visually appealing. Also can work on implementing categories for the various types of submitted reports.
 * Roman : Will incorporate the mapping aspect of the site. Also implement the photo uploading.
 * Corben : Back-End engineer. Will manage the database information. Implements Email Notification feature.
+
+<img src="landing.PNG">
