@@ -20,7 +20,7 @@ Within the first week of starting the project, we managed to get a working landi
 
 Next, we designed the beginnings of our Add Report tab.
 
-<img src="landing.PNG">
+<img src="addreport.PNG">
 
 Going forward, we still need to get it working database-wise. We will also need to work on the other two tabs because, as of now, they have no connection to the overall goal of the site. This is in part to time constraints, as well as a higher difficulty in implementing them. 
 
