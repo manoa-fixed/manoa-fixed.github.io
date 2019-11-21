@@ -39,5 +39,7 @@ Overall, this was a successful first week and milestone!
 
 See the Project Board here : [M2](https://github.com/orgs/manoa-fixed/projects/4)
 
-As of now, we have officially deployed our app to Galaxy. 
+As of now, we have officially deployed our app to Galaxy. See it [here](manoafixed.meteorapp.com).
+
+
 
