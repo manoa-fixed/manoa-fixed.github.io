@@ -19,12 +19,6 @@ Member Responsibilites:
 
 Within the first week of starting the project, we managed to get a working landing page. We also managed to get something that we deemed visually satisfying.
 
-<img src="landing.PNG">
-
-Next, we designed the beginnings of our Add Report tab.
-
-<img src="addreport.PNG">
-
 Going forward, we still need to get it working database-wise. We will also need to work on the other two tabs because, as of now, they have no connection to the overall goal of the site. This is in part to time constraints, as well as a higher difficulty in implementing them. 
 
 *** UPDATE ***
@@ -35,14 +29,20 @@ So far, these are our default pages available to all users. These features are a
 Click on the term to get linked to the site :
 
 [Landing Page](http://manoafixed.meteorapp.com/#/)
+
 <img src="galaxy.PNG">
+
+Note that we have added an actual button in addition to the tab. The button is more visually stimulating, and catches a user's eye moreso than the smaller Add tab.
 
 [Add tab](http://manoafixed.meteorapp.com/#/add)
 <img src="add.PNG">
 
+We still need to get the image upload working. Need to also incorporate location coordinates.
+
 [About tab](http://manoafixed.meteorapp.com/#/list)
 <img src="about.PNG">
 
+Got the beginnings of the About tab working.
 
 Overall, this was a successful first milestone!
 
