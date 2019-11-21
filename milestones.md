@@ -41,5 +41,15 @@ See the Project Board here : [M2](https://github.com/orgs/manoa-fixed/projects/4
 
 As of now, we have officially deployed our app to Galaxy. See it [here](http://manoafixed.meteorapp.com/#/).
 
+[Landing Page](http://manoafixed.meteorapp.com/#/)
+<img src="galaxy.PNG">
+
+[Add tab](http://manoafixed.meteorapp.com/#/add)
+<img src="add.PNG">
+
+[List tab](http://manoafixed.meteorapp.com/#/list)
+<img src="list.PNG">
+
+
 
 
