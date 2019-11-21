@@ -5,6 +5,10 @@
 * [Later Thoughts](#later-thoughts)
 * [Milestones](milestones.html)
 
+## REPO
+
+View the repo [HERE](https://github.com/manoa-fixed)
+
 ## Overview 
 
 When thinking up an application that could be used to assist UH Manoa in some way, my group thought of a campus repair-related app. We believe that, currently, UH Manoa has no way of organizing or grouping campus repairs into one single source. We are not sure how campus maintenance currently goes about this, but we believe that a webtool or application could greatly help organize their efforts. We will illustrate how this app could be used in practice:
