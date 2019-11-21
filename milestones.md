@@ -47,8 +47,8 @@ As of now, we have officially deployed our app to Galaxy. See it [here](http://m
 [Add tab](http://manoafixed.meteorapp.com/#/add)
 <img src="add.PNG">
 
-[List tab](http://manoafixed.meteorapp.com/#/list)
-<img src="list.PNG">
+[About tab](http://manoafixed.meteorapp.com/#/list)
+<img src="about.PNG">
 
 
 
