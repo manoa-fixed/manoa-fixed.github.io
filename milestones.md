@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Milestone 1](#Milestone-1)
+* [Milestone 2](#Milestone-2)
 
 ## Milestone 1 
 
@@ -36,7 +37,7 @@ Overall, this was a successful first week and milestone!
 
 ## Milestone 2
 
-See the Project Board here : [M1](https://github.com/orgs/manoa-fixed/projects/4)
+See the Project Board here : [M2](https://github.com/orgs/manoa-fixed/projects/4)
 
 As of now, we have officially deployed our app to Galaxy. 
 
