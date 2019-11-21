@@ -35,11 +35,13 @@ Click on the term to get linked to the site :
 Note that we have added an actual button in addition to the tab. The button is more visually stimulating, and catches a user's eye moreso than the smaller Add tab.
 
 [Add tab](http://manoafixed.meteorapp.com/#/add)
+
 <img src="add.PNG">
 
 We still need to get the image upload working. Need to also incorporate location coordinates.
 
 [About tab](http://manoafixed.meteorapp.com/#/list)
+
 <img src="about.PNG">
 
 Got the beginnings of the About tab working.
