@@ -5,9 +5,10 @@
 * [Later Thoughts](#later-thoughts)
 * [Milestones](milestones.html)
 
-## REPO
+## REPO & SITE
 
 View the repo [HERE](https://github.com/manoa-fixed)
+View the live site on Galaxy [HERE](http://manoafixed.meteorapp.com/#/)
 
 ## Overview 
 
