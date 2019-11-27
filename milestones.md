@@ -60,7 +60,16 @@ Condensed To-Do List for Milestone 2:
 * Email Notifications : Send out a notification via email to admin account when new report is added.
 * Image Upload : Lets try to implement a "Drop Zone" for image upload.
 
+*** UPDATE ***
 
+Now that we are halfway through Milestone 2, I would like to give an update on the our current progress:
+So far, I have had success using [Cloudinary](https://cloudinary.com/) to help with image uploads in Add Report. Essentially Cloudinary allows for cloud-based image storage that can be used for websites and apps. So far, it is not completely working, but I have gotten the Drop-Zone feature implemented. To do this, I brought code over from the RadGrad repo, which also uses a Cloudinary widget. Though their code was a good base to work off of, it was also quite difficult to have it working for my site. Since the RadGrad code was written in TypeScript, I had to completely rewire the code for my site's Javacript needs. At the end of the ordeal, I was satisfied once the "Upload" button was finally working and I could see uploaded images being posted on my Cloudinary account.
+
+Next, though this was not initially planned, I added a Donate tab to the app. This allows a user to donate to the maintanence department via Paypal, Debit, or Credit to an already made Paypal account. Since I do not know if the maintanence department has an account, I may just change this to donate to our development team. I should mention that I got this code from Paypal's website. I think this was a nice and interesting touch.
+
+Lastly, I want to add a few lessons/tips I have learned during this milestone:
+1. Be sure the password in the settings.development.json file matches the password in the online Mongo Database.
+2. Turning off your system's Virus Scanner greatly increases the speed during the deployment process. Don't forget to turn it back on afterwards!
 
 
 
