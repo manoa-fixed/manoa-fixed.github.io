@@ -71,5 +71,5 @@ Lastly, I want to add a few lessons/tips I have learned during this milestone:
 1. Be sure the password in the settings.development.json file matches the password in the online Mongo Database. I was stuck on this for awhile because the Command Prompt does not specify the error during upload. Rather it gives a generic error message that offers no clue to what went wrong during deployment.
 2. Turning off your system's Virus Scanner greatly increases the speed during the deployment process. Don't forget to turn it back on afterwards!
 
-
+Also, I forgot to mention that Yuuma got the Email Notification feature working. Upon adding a report, an email is sent out to a specified address. Great job!
 
