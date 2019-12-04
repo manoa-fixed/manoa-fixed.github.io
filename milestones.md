@@ -65,11 +65,29 @@ Condensed To-Do List for Milestone 2:
 Now that we are halfway through Milestone 2, I would like to give an update on the our current progress:
 So far, I have had success using [Cloudinary](https://cloudinary.com/) to help with image uploads in Add Report. Essentially Cloudinary allows for cloud-based image storage that can be used for websites and apps. So far, it is not completely working, but I have gotten the Drop-Zone feature implemented. To do this, I brought code over from the RadGrad repo, which also uses a Cloudinary widget. Though their code was a good base to work off of, it was also quite difficult to have it working for my site. Since the RadGrad code was written in TypeScript, I had to completely rewire the code for my site's JavaScript needs. At the end of the ordeal, I was satisfied once the "Upload" button was finally working and I could see uploaded images being posted on my Cloudinary account.
 
-<img src="galaxy.PNG">
+<img src="newadd.PNG">
 
 Next, though this was not initially planned, I added a Donate tab to the app. This allows a user to donate to the maintanence department via Paypal, Debit, or Credit to an already made Paypal account. Since I do not know if the maintanence department has an account, I may just change this to donate to our development team. I should mention that I got this code from Paypal's website. I think this was a nice and interesting touch.
 
 <img src="donate.PNG">
+
+*** UPDATE ***
+
+Managed to finally get the Cloudinary Upload button working. Here is what the new "DropZone" looks like. I am quite pleased with how it turned out.
+
+<img src="dropzone.PNG">
+
+Also, Corben changed some aspects of the Landing Page that he thought would look better. He wanted a different logo. Also he wanted to make the Add Report button filled-in with color so that it would be more eye-catching than the previous transparent one.
+
+<img src="newLanding.PNG">
+
+Next, because our image upload is now working, we now can see our List Report cards as they were intended. I also have added a "Status" attribute to the Report Schema. The Status allows for the status of the repair to be labeled. 
+
+<img src="list.PNG">
+
+Note on Search-Bar : Implemented by Yuuma, the Search-Bar will likely filter results based on Tagging. Currently it does not have functionality.
+
+I also should mention that we reworked some of the Admin vs General user privileges. All users have the ability to edit their reports. General users can edit all attributes of the Report schema except for Status and Image. The reasoning behind this is that Status can only be upgraded (or possibly downgraded) by an Admin because they are the ones who are likely in communication with the maintenence department. All submitted reports have the default status of "Pending". This is a HiddenText field in Add Report because submissions are likely new submissions (unless in case of a duplicate, which would be removed). As for the reasoning for not allowing Image editing... it is because the Image field is in fact a String. The Image is actually stored as a String URL. This URL is actually a Cloudinary URL that links to my Cloudinary account. It makes sense to not have this displayed. Also, submitting a new URL for a user can be difficult and clunky. However, now that I am thinking of this, possibly instead of having the user directly see the Image String URL, we can put another Cloudinary Upload button similar to the one we have in Add Report inside Edit Report. It is worth a shot for Milestone 3.
 
 Lastly, I want to add a few lessons/tips I have learned during this milestone:
 1. Be sure the password in the settings.production.json file matches the password in the online Mongo Database. I was stuck on this for awhile because the Command Prompt does not specify the error during upload. Rather it gives a generic error message that offers no clue to what went wrong during deployment.
