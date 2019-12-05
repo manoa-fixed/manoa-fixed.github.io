@@ -36,7 +36,7 @@ Lastly, I think we must implement regular users vs administrator roles. An admin
 
 Upon opening the app, a user will see the page with the Add Report button and Sign-In button as available options. If a user attempts to use the Add Report button before signing-in, they will be directed to the sign-in prompt. A sign-in is required because it gives an identity to a submitter, and helps combat against random spammers.
 
-Here is the [Landing Page](http://manoafixed.meteorapp.com/#/)
+Here is the [Landing Page](http://manoafixed.meteorapp.com/#/) :
 
 <img src="newLanding.PNG">
 
@@ -48,7 +48,7 @@ Note the Upload button will allow Drag-&-Drop functionality :
 
 <img src="dropzone.PNG">
 
-After adding your report, view it in [List Reports](http://manoafixed.meteorapp.com/#/list)
+After adding your report, view it in [List Reports](http://manoafixed.meteorapp.com/#/list) :
 
 <img src="list.PNG">
 
@@ -56,7 +56,7 @@ You may also [edit your report](http://manoafixed.meteorapp.com/#/edit/kcxGBQEmf
 
 <img src="edit.PNG">
 
-Lastly, before you go, feel free to [donate](http://manoafixed.meteorapp.com/#/donate) to the maintanence department
+Lastly, before you go, feel free to [donate](http://manoafixed.meteorapp.com/#/donate) to the maintanence department :
 
 <img src="donate.PNG">
 
