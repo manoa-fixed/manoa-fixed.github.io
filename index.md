@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [Features](#features)
+* [Developer Guide](#developer-guide)
 * [Later Thoughts](#later-thoughts)
 * [Milestones](milestones.html)
 
@@ -29,6 +30,49 @@ Lastly, I think we must implement regular users vs administrator roles. An admin
 * Database tied in to photos and mapping.
 * Email notifications
 * Categorical grouping
+
+## Developer Guide
+
+This tutorial is here for people who would like to download the app, make their own customizations to it, and ultimately run their own version of the app. I will now run through the step-by-step process of how to go about this:
+
+1. First you must install [chocolatey](https://chocolatey.org/install) and [meteor](https://www.meteor.com/install) onto our system.
+2. Next, I would recommend installing [Github Desktop](https://desktop.github.com/).
+3. Third, download the app's code on [Github](https://github.com/manoa-fixed/manoa-fixed) by clicking on the green Clone button in the upper right area of the screen.
+4. Now the last thing you must install is [Node.js](https://www.npmjs.com/get-npm)
+5. Oh, almost forgot, you need an IDE! I recommend grabbing [IntelliJ](https://www.jetbrains.com/idea/download/) because that is what I used when making this app.
+
+Once you have these installed, you may proceed with working and running the app itself:
+
+1. Use the `cd` terminal command to move into the `\app` directory. 
+2. Once in the proper directory, run the `meteor npm install` prompt to get Meteor working.
+3. Feel free to edit the app as you please in an IDE.
+4. Once you are satisfied with you edits, run `meteor npm run start'.
+
+You should now see this:
+
+`C:\Users\togaq\Documents\GitHub\manoa-fixed\app>meteor npm run start
+
+> meteor-application-template-react@ start C:\Users\togaq\Documents\GitHub\manoa-fixed\app
+> meteor --no-release-check --settings ../config/settings.development.json
+
+[[[[[ C:\Users\togaq\Documents\GitHub\manoa-fixed\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20191204-22:03:57.774(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20191204-22:03:57.857(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20191204-22:03:57.858(-10)? (STDERR) approximately three times slower than the native implementation.
+W20191204-22:03:57.859(-10)? (STDERR) In order to use the native implementation instead, run
+W20191204-22:03:57.860(-10)? (STDERR)
+W20191204-22:03:57.860(-10)? (STDERR)   meteor npm install --save bcrypt
+W20191204-22:03:57.861(-10)? (STDERR)
+W20191204-22:03:57.862(-10)? (STDERR) in the root directory of your application.
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.`
+   
+Now you should be able to view your app at the given localhost site.
 
 ### Later Thoughts
 
