@@ -46,7 +46,7 @@ Once you have these installed, you may proceed with working and running the app 
 1. Use the `cd` terminal command to move into the `\app` directory. 
 2. Once in the proper directory, run the `meteor npm install` prompt to get Meteor working.
 3. Feel free to edit the app as you please in an IDE.
-4. Once you are satisfied with you edits, run `meteor npm run start'.
+4. Once you are satisfied with your edits, run `meteor npm run start`.
 
 You should now see this:
 
