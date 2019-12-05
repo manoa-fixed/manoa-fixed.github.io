@@ -50,27 +50,8 @@ Once you have these installed, you may proceed with working and running the app 
 
 You should now see this:
 
-`C:\Users\togaq\Documents\GitHub\manoa-fixed\app>meteor npm run start
-
-> meteor-application-template-react@ start C:\Users\togaq\Documents\GitHub\manoa-fixed\app
-> meteor --no-release-check --settings ../config/settings.development.json
-
-[[[[[ C:\Users\togaq\Documents\GitHub\manoa-fixed\app ]]]]]
-
-=> Started proxy.
-=> Started MongoDB.
-W20191204-22:03:57.774(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-W20191204-22:03:57.857(-10)? (STDERR) While this implementation will work correctly, it is known to be
-W20191204-22:03:57.858(-10)? (STDERR) approximately three times slower than the native implementation.
-W20191204-22:03:57.859(-10)? (STDERR) In order to use the native implementation instead, run
-W20191204-22:03:57.860(-10)? (STDERR)
-W20191204-22:03:57.860(-10)? (STDERR)   meteor npm install --save bcrypt
-W20191204-22:03:57.861(-10)? (STDERR)
-W20191204-22:03:57.862(-10)? (STDERR) in the root directory of your application.
-=> Started your app.
-
-=> App running at: http://localhost:3000/
-   Type Control-C twice to stop.`
+`=> App running at: http://localhost:3000/`
+  ` Type Control-C twice to stop.`
    
 Now you should be able to view your app at the given localhost site.
 
