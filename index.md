@@ -80,7 +80,6 @@ Once you have these installed, you may proceed with working and running the app 
 You should now see this:
 
 `=> App running at: http://localhost:3000/`
-  ` Type Control-C twice to stop.`
    
 Now you should be able to view your app at the given localhost site.
 
