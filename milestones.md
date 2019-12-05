@@ -4,6 +4,7 @@
 
 * [Milestone 1](#Milestone-1)
 * [Milestone 2](#Milestone-2)
+* [Milestone 3](#Milestone-3)
 
 ## Milestone 1 
 
@@ -95,4 +96,17 @@ Lastly, I want to add a few lessons/tips I have learned during this milestone:
 3. Deploy the Meteor App locally using `meteor npm run start` before deploying to Galaxy. This is so that you can check small changes without having to display the app publically.
 
 Also, I forgot to mention that Yuuma got the Email Notification feature working. Upon adding a report, an email is sent out to a specified address. Great job!
+
+## Milestone 3
+
+See the Project Board here : [M3](https://github.com/orgs/manoa-fixed/projects/4)
+
+Condensed To-Do List for Milestone 3:
+
+* Edit Report : Cloudinary Upload Button available for editing Image field in Report Schema.
+* Map : Let's attempt to get this map working. If we cannot get it to work, our site is still fine.
+* Status Field : We need to color coordinate the Status field in Report Schema.
+* Navigation Video : Lets make a video for users showing them how to navigate our site.
+* Fix Admin vs General User Issues : Reports between general users and admins are not consistant.
+
 
