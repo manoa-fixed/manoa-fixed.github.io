@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [Features](#features)
+* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Later Thoughts](#later-thoughts)
 * [Milestones](milestones.html)
@@ -41,10 +42,23 @@ Here is the [Landing Page](http://manoafixed.meteorapp.com/#/)
 
 Now users can use the Add Report button and be directed to the [Add Report form](http://manoafixed.meteorapp.com/#/add) :
 
-
 <img src="newadd.PNG">
 
+Note the Upload button will allow Drag-&-Drop functionality :
 
+<img src="dropzone.PNG">
+
+After adding your report, view it in [List Reports](http://manoafixed.meteorapp.com/#/list)
+
+<img src="list.PNG">
+
+You may also [edit your report](http://manoafixed.meteorapp.com/#/edit/kcxGBQEmfePWuYG3c) with the following form :
+
+<img src="edit.PNG">
+
+Lastly, before you go, feel free to [donate](http://manoafixed.meteorapp.com/#/donate) to the maintanence department
+
+<img src="donate.PNG">
 
 ## Developer Guide
 
