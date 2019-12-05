@@ -55,6 +55,8 @@ You should now see this:
    
 Now you should be able to view your app at the given localhost site.
 
+Feel free to play with log-in credentials in the `settings.development.json` file.
+
 ### Later Thoughts
 
 After letting this idea sit and brew in our heads for a few days, we have realized that it is probably too niche for the entire student/faculty body to utilize. It is unlikely that a majority of students and faculty will take the time to download and use an app with such situational use. Therefore, we propose that this app be tailor made for the maintanence faculty only. Maintanence could use an exclusive webtool that will help organize and document their tasks. If only the maintanence uses this, the app could be more focused and effective for that group of people, without losing any of its overall effectiveness because maintanence are the people mainly looking out for campus damages anyway…. Just my two cents.
