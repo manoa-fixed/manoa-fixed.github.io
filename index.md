@@ -31,6 +31,21 @@ Lastly, I think we must implement regular users vs administrator roles. An admin
 * Email notifications
 * Categorical grouping
 
+## User Guide
+
+Upon opening the app, a user will see the page with the Add Report button and Sign-In button as available options. If a user attempts to use the Add Report button before signing-in, they will be directed to the sign-in prompt. A sign-in is required because it gives an identity to a submitter, and helps combat against random spammers.
+
+Here is the [Landing Page](http://manoafixed.meteorapp.com/#/)
+
+<img src="newLanding.PNG">
+
+Now users can use the Add Report button and be directed to the [Add Report form](http://manoafixed.meteorapp.com/#/add) :
+
+
+<img src="newadd.PNG">
+
+
+
 ## Developer Guide
 
 This tutorial is here for people who would like to download the app, make their own customizations to it, and ultimately run their own version of the app. I will now run through the step-by-step process of how to go about this:
