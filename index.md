@@ -50,7 +50,7 @@ Note the Upload button will allow Drag-&-Drop functionality :
 
 After adding your report, view it in [List Reports](http://manoafixed.meteorapp.com/#/list) :
 
-<img src="list.PNG">
+<img src="listreports.PNG">
 
 You may also [edit your report](http://manoafixed.meteorapp.com/#/edit/kcxGBQEmfePWuYG3c) with the following form :
 
