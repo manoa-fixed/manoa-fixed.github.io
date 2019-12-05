@@ -51,7 +51,7 @@ Overall, this was a successful first milestone!
 
 ## Milestone 2
 
-See the Project Board here : [M2](https://github.com/manoa-fixed/manoa-fixed/projects/2
+See the Project Board here : [M2](https://github.com/manoa-fixed/manoa-fixed/projects/2)
 
 Condensed To-Do List for Milestone 2:
 
