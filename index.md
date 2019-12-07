@@ -85,6 +85,11 @@ Now you should be able to view your app at the given localhost site.
 
 Feel free to play with log-in credentials in the `settings.development.json` file.
 
+If you want to go a step further and have this displayed live on Galaxy like we did, check out this link:
+http://courses.ics.hawaii.edu/ics314f19/morea/deployment/experience-test-deployment.html
+Once running, you can also change domain names. Look here for more info:
+https://galaxy-guide.meteor.com/custom-domains.html
+
 ## Milestones
 
 Our milestones are documented on its own page. View them [here](milestones.html).
