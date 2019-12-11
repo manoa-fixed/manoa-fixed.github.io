@@ -111,7 +111,7 @@ Condensed To-Do List for Milestone 3:
 
 *** UPDATE ***
 
-Notice !: We have decided not to implement the map feature within the milestones of this project. This is due to a combinations of time constraints (exams and projects for other classes) and the general technical difficulty of the map. Also, ideally we would want to render a map of the UHM campus, however we do not have one currently and it would likely be difficult to make. It would not work with only a Google Map generation because we need to have the actual buildings in view, ideally not in the way that Google Maps displays them. A custom map would need to be made and we simply do not have the time to do this. However, in the future if we can come back to the project it would definitely be something to look into. I found this link to be a good resource :
+Notice !: We have decided not to implement the map feature within the milestones of this project. This is due to a combinations of time constraints (exams and projects for other classes) and the priorities of other apsects of the project. Also, ideally we would want to render a map of the UHM campus, however we do not have one currently and it would likely be difficult to make. It would not work with only a Google Map generation because we need to have the actual buildings in view, ideally not in the way that Google Maps displays them. A custom map would need to be made and we simply do not have the time to do this. However, in the future if we can come back to the project it would definitely be something to look into. I found this link to be a good resource :
 
 https://meteorcapture.com/how-to-create-a-reactive-google-map/
 
@@ -129,3 +129,6 @@ Something else I added was a default value to the Image field in schema. This is
 Here is the default image :
 
 Also I added Lorem Ipsum text to the default value of the Description field in the Reports Schema.
+
+Some things I have learned during this milestone :
+1. Use meteor reset to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy?
