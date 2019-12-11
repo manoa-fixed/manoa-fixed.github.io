@@ -109,4 +109,23 @@ Condensed To-Do List for Milestone 3:
 * Navigation Video : Lets make a video for users showing them how to navigate our site.
 * Fix Admin vs General User Issues : Reports between general users and admins are not consistant.
 
+*** UPDATE ***
 
+Notice !: We have decided not to implement the map feature within the milestones of this project. This is due to a combinations of time constraints (exams and projects for other classes) and the general technical difficulty of the map. Also, ideally we would want to render a map of the UHM campus, however we do not have one currently and it would likely be difficult to make. It would not work with only a Google Map generation because we need to have the actual buildings in view, ideally not in the way that Google Maps displays them. A custom map would need to be made and we simply do not have the time to do this. However, in the future if we can come back to the project it would definitely be something to look into. I found this link to be a good resource :
+
+https://meteorcapture.com/how-to-create-a-reactive-google-map/
+
+I liked that link because it gives instructions on how to make a reactive map where users drag-and-drop a pin onto the map.  
+
+Onto actual work :
+Corben has officially rewired the Cloudinary Button into Edit Report. Something that I think can be improved is that we need to get the image that is already in the database to be auto-submitted if the user chooses not to upload a new one. Currently it requires a user to re-upload an image. I feel like in most cases a user would not want a new image to upload. Most edits are likely for minute adjustments to the verbal fields, having to upload an image everytime would quickly become an annoyance.
+
+Also, I put the location, date, status, and owner (submitter) fields into a "View Attributes" pop-up. I thought this looked cleaner. Also the status tag is now color-coordinated.
+
+Another big update we did was change the tag attribute so that it is implemented as actual tagging. Previously, you could only select one value, now you can select multiple. This changed tag in the schema from going from a type of String to a type of Array of Strings. This will work later on down-the-line and go hand-in-hand with the search bar filter. We also added a "title" field were a user can enter a title to their report. I would like to implement a limit to the amount of characters a user can input into the title field (also location field for that matter). 
+
+Something else I added was a default value to the Image field in schema. This is so that a user does not have to submit an image in their new report if they do not want to. This is because there may be situations in which a person sees something that could be reported, but they may not have a camera on them at that moment. The default value now is a URL to an image in my Cloudinary.
+
+Here is the default image :
+
+Also I added Lorem Ipsum text to the default value of the Description field in the Reports Schema.
