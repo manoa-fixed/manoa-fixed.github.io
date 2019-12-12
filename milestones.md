@@ -128,7 +128,13 @@ Something else I added was a default value to the Image field in schema. This is
 
 Here is the default image :
 
+<img src="NullIsland.jpg">
+
 Also I added Lorem Ipsum text to the default value of the Description field in the Reports Schema.
+
+<img src="lorem.PNG">
+
+However it has since been removed due to majority group opinion.
 
 Some things I have learned during this milestone :
 1. Use meteor reset to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy?
