@@ -144,4 +144,4 @@ Some bugs I have found in the site :
 <img src="statusbug.PNG">
 
 Some things I have learned during this milestone :
-1. Use meteor reset to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy?
+1. Use `meteor reset` to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy? ANSWER: Go to Mongo Atlas and do it from there.
