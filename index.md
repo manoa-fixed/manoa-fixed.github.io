@@ -4,6 +4,7 @@
 * [Features](#features)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Site Privileges](#later-thoughts)
 * [Later Thoughts](#later-thoughts)
 * [Milestones](milestones.html)
 
@@ -96,6 +97,12 @@ https://galaxy-guide.meteor.com/custom-domains.html
 ## Milestones
 
 Our milestones are documented on its own page. View them [here](milestones.html).
+
+## Site Privileges
+
+A brief note on site privileges... we grouped users into two categories: General Users and Admin. General Users have the ability to add reports and edit/remove their *own* reports. An Admin can add reports but also has the power to edit and remove *all* reports. Admins can also set the status of all reports, something that General Users cannot do (All reports have the default status value of "Pending").
+
+From a technical standpoint, Admins are given a role in the imports->startup->server->Accounts.js file.
 
 ### Later Thoughts
 
