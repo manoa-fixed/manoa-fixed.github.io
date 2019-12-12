@@ -137,6 +137,7 @@ Also I added Lorem Ipsum text to the default value of the Description field in t
 However it has since been removed due to majority group opinion.
 
 *** UPDATE ***
+
 Some bugs I have found in the site :
 * Admins edit status is working for reports they as admins have created, however when trying to edit status for a report a general user has created, it says :
 
