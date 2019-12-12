@@ -124,7 +124,7 @@ Also, I put the location, date, status, and owner (submitter) fields into a "Vie
 
 Another big update we did was change the tag attribute so that it is implemented as actual tagging. Previously, you could only select one value, now you can select multiple. This changed tag in the schema from going from a type of String to a type of Array of Strings. This will work later on down-the-line and go hand-in-hand with the search bar filter. We also added a "title" field were a user can enter a title to their report. I would like to implement a limit to the amount of characters a user can input into the title field (also location field for that matter). 
 
-Something else I added was a default value to the Image field in schema. This is so that a user does not have to submit an image in their new report if they do not want to. This is because there may be situations in which a person sees something that could be reported, but they may not have a camera on them at that moment. The default value now is a URL to an image in my Cloudinary.
+Something else I added was a default value to the Image field in schema. This is so that a user does not have to submit an image in their new report if they do not want to. This is because there may be situations in which a person sees something that could be reported, but they may not have a camera on them at that moment. The default value now is a URL to an image in my Cloudinary. Also, there is some reasoning as to why it is a Cloudinary URL and not just the URL of the image found in "the wild" (Google Search). I moved it into my Cloudinary because there is a chance that the image on Google Search could potentially be deleted, which could cause a bug during upload on the actual site.
 
 Here is the default image :
 
