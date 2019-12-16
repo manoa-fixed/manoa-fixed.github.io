@@ -147,5 +147,5 @@ Some things I have learned during this milestone :
 1. Use `meteor reset` to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy? 
   ANSWER: Professor Johnson provided instructions to do this here: http://courses.ics.hawaii.edu/ics314f19/morea/meteor-2/reading-meteor-refresh-database.html
   
-  [galaxy](https://galaxy.meteor.com/ics314f19)
-  [mongodb atlas](https://cloud.mongodb.com/v2/5dd32b1ba6f239c7a3dca386?csrfTime=1576480008083&csrfToken=fc3c45eb706b1df7cdb1f0c3516a8c229745881d&currentOrgId=5dd32b1af2a30bcce8c0dab4&email=rnicolai%40hawaii.edu&needsMfa=false&uId=5dd32b16553855184bda795f#clusters)
+    [galaxy](https://galaxy.meteor.com/ics314f19)
+    [mongodb atlas](https://cloud.mongodb.com/v2/5dd32b1ba6f239c7a3dca386?csrfTime=1576480008083&csrfToken=fc3c45eb706b1df7cdb1f0c3516a8c229745881d&currentOrgId=5dd32b1af2a30bcce8c0dab4&email=rnicolai%40hawaii.edu&needsMfa=false&uId=5dd32b16553855184bda795f#clusters)
