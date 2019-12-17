@@ -106,8 +106,27 @@ From a technical standpoint, Admins are given a role in the imports->startup->se
 
 ## Community Feedback
 
+#### Spencer Young (EE Student)
+* Move the submit button to the right side
+* Make the edit link into an icon and have it next to the trash can icon
+* "Un-round" the corners on the sides that connect the search button and the input
+* Either bold all of the location: email: on the cards so it's easier to see or make icons for them
+* Color scheme could be better.
+
 #### Anonymous Maintenence Faculty Member
-Said the app was a good idea and would definitely find use within the department. Says an "online bulletin board" could help with organizing tasks. The faculty member liked how quick it was to create a report, and how easy it was to see all options. The faculty member said that a mobile app would most definitely be an improvement down-the-line, since most faculty are on-the-move and working in-the-field. Overall, the faculty member was thankful that our team thought of the department, since many of the department's efforts go unnoticed. 
+Said the app was a good idea and would definitely find use within the department. Says an "online bulletin board" could help with organizing tasks. The faculty member liked how quick it was to create a report, and how easy it was to see all options. The faculty member said that a mobile app would most definitely be an improvement down-the-line, since most faculty are on-the-move and working in-the-field. Overall, the faculty member was thankful that our team thought of the department, since many of the department's efforts go unnoticed.
+
+#### Russel Portela (EE Student)
+* When registering, what will happen if you mistype your password?
+* Would be nice if you could x out your uploaded photo before you submit (like if you make a mistake)
+* Want suggested locations as dropdowns
+* When you click on the picture of the cards he wants to see the zoomed in ver of the pic
+* He likes it overall
+* Maybe have a contact us / way to contact people
+* Have a customizable profile like a picture
+* Don't like re-uploading an image every time you press edit.
+* Edit report doesn't close that page and does not return to the page where you came from after submitting the edit
+* If you don't upload an image it gets a default image but when you edit that report you must upload an image. Try fix that.
 
 ### Later Thoughts
 
