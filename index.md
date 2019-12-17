@@ -104,6 +104,11 @@ A brief note on site privileges... we grouped users into two categories: General
 
 From a technical standpoint, Admins are given a role in the imports->startup->server->Accounts.js file.
 
+## Community Feedback
+
+#### Anonymous Maintenence Faculty Member
+Said the app was a good idea and would definitely find use within the department. Says an "online bulletin board" could help with organizing tasks. The faculty member liked how quick it was to create a report, and how easy it was to see all options. The faculty member said that a mobile app would most definitely be needed, since most faculty are on-the-move and working in-the-field. Overall, the faculty member was thankful that our team thought of the department, since many of the department's efforts go unnoticed. 
+
 ### Later Thoughts
 
 After letting this idea sit and brew in our heads for a few days, we have realized that it is probably too niche for the entire student/faculty body to utilize. It is unlikely that a majority of students and faculty will take the time to download and use an app with such situational use. Therefore, we propose that this app be tailor made for the maintanence faculty only. Maintanence could use an exclusive webtool that will help organize and document their tasks. If only the maintanence uses this, the app could be more focused and effective for that group of people, without losing any of its overall effectiveness because maintanence are the people mainly looking out for campus damages anyway…. Just my two cents.
