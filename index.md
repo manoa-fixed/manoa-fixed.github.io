@@ -4,6 +4,7 @@
 * [Features](#features)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Site Privileges](#later-thoughts)
 * [Later Thoughts](#later-thoughts)
 * [Milestones](milestones.html)
