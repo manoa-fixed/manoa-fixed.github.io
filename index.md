@@ -107,7 +107,7 @@ From a technical standpoint, Admins are given a role in the imports->startup->se
 ## Community Feedback
 
 #### Anonymous Maintenence Faculty Member
-Said the app was a good idea and would definitely find use within the department. Says an "online bulletin board" could help with organizing tasks. The faculty member liked how quick it was to create a report, and how easy it was to see all options. The faculty member said that a mobile app would most definitely be needed, since most faculty are on-the-move and working in-the-field. Overall, the faculty member was thankful that our team thought of the department, since many of the department's efforts go unnoticed. 
+Said the app was a good idea and would definitely find use within the department. Says an "online bulletin board" could help with organizing tasks. The faculty member liked how quick it was to create a report, and how easy it was to see all options. The faculty member said that a mobile app would most definitely be an improvement down-the-line, since most faculty are on-the-move and working in-the-field. Overall, the faculty member was thankful that our team thought of the department, since many of the department's efforts go unnoticed. 
 
 ### Later Thoughts
 
