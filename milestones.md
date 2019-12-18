@@ -149,6 +149,8 @@ Also we have cleaned up other aspects of our site. We also got the Search featur
 
 We are proud to say that we have completed this project!
 
+<img src="final.PNG">
+
 Some things I have learned during this milestone :
 1. Use `meteor reset` to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy? 
   ANSWER: Professor Johnson provided instructions to do this here: http://courses.ics.hawaii.edu/ics314f19/morea/meteor-2/reading-meteor-refresh-database.html
