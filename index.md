@@ -105,6 +105,8 @@ A brief note on site privileges... we grouped users into two categories: General
 
 From a technical standpoint, Admins are given a role in the imports->startup->server->Accounts.js file.
 
+The admin role is given access to specialized listings of the reports that allow for them to update the status of reports, as well as remove reports at will with commands that are specific to that listing of reports.
+
 ## Community Feedback
 
 ### Spencer Young (EE Student)
@@ -129,6 +131,19 @@ Said the app was a good idea and would definitely find use within the department
 * Don't like re-uploading an image every time you press edit.
 * Edit report doesn't close that page and does not return to the page where you came from after submitting the edit
 * If you don't upload an image it gets a default image but when you edit that report you must upload an image. Try fix that.
+
+### Keenan Lee 
+* When you press capture button in the upload photos part the website will be stuck.
+* Should change the color of the link on the very bottom of the page because it is hard to see right now
+* The image should disappear when submitting the form just like other text input becomes blank after you press submit
+
+### Daniel Cervantes (Marine Science Student)
+ * Instructional video needs better explaining 
+ * Needs an option to enlarge submitted pictures 
+ * The pictures I submit are submitted upside down 
+ * Editing my posts results in me having to resubmit my picture 
+ * Layout is flat and visually unappealing 
+ * Needs more options for tags (fire, etc.)
 
 ### Later Thoughts
 
