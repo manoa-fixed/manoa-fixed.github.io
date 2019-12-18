@@ -160,4 +160,4 @@ Some things I have learned during this milestone :
     [galaxy](https://galaxy.meteor.com/ics314f19)
     [mongodb atlas](https://cloud.mongodb.com/v2/5dd32b1ba6f239c7a3dca386?csrfTime=1576480008083&csrfToken=fc3c45eb706b1df7cdb1f0c3516a8c229745881d&currentOrgId=5dd32b1af2a30bcce8c0dab4&email=rnicolai%40hawaii.edu&needsMfa=false&uId=5dd32b16553855184bda795f#clusters)
     
-2. Always clear the Galaxy database when changing the schema. This is because old fields may not connect to new fields, causing problems.
+Always clear the Galaxy database when changing the schema. This is because old fields may not connect to new fields, causing problems.
