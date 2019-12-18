@@ -143,9 +143,19 @@ Some bugs I have found in the site :
 
 <img src="statusbug.PNG">
 
+The fix? It was something very simple that we looked over. We were simply subscribing to the wrong publication. We needed to subscribe to "ReportsAdmin", not what we had which was just "Reports."
+
+Also we have cleaned up other aspects of our site. We also got the Search feature working (it filters by tagging).
+
+We are proud to say that we have completed this project!
+
 Some things I have learned during this milestone :
 1. Use `meteor reset` to reset the Meteor database locally. Is there an equivalent to reset the database on Galaxy? 
   ANSWER: Professor Johnson provided instructions to do this here: http://courses.ics.hawaii.edu/ics314f19/morea/meteor-2/reading-meteor-refresh-database.html
   
+  Links to Galaxy and MongoDB:
+  
     [galaxy](https://galaxy.meteor.com/ics314f19)
     [mongodb atlas](https://cloud.mongodb.com/v2/5dd32b1ba6f239c7a3dca386?csrfTime=1576480008083&csrfToken=fc3c45eb706b1df7cdb1f0c3516a8c229745881d&currentOrgId=5dd32b1af2a30bcce8c0dab4&email=rnicolai%40hawaii.edu&needsMfa=false&uId=5dd32b16553855184bda795f#clusters)
+    
+2. Always clear the Galaxy database when changing the schema. This is because old fields may not connect to new fields, causing problems.
