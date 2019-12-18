@@ -132,7 +132,7 @@ Said the app was a good idea and would definitely find use within the department
 * Edit report doesn't close that page and does not return to the page where you came from after submitting the edit
 * If you don't upload an image it gets a default image but when you edit that report you must upload an image. Try fix that.
 
-### Keenan Lee 
+### Keenan Lee (EE Student)
 * When you press capture button in the upload photos part the website will be stuck.
 * Should change the color of the link on the very bottom of the page because it is hard to see right now
 * The image should disappear when submitting the form just like other text input becomes blank after you press submit
