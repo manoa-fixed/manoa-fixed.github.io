@@ -109,6 +109,8 @@ The admin role is given access to specialized listings of the reports that allow
 
 ## Community Feedback
 
+We have interviewed several Manoa students as well as a faculty member to gain insight on our app. They offered constructive criticism on how the app could be improved, as well as what they liked and disliked about the app in general.
+
 ### Spencer Young (EE Student)
 * Move the submit button to the right side
 * Make the edit link into an icon and have it next to the trash can icon
