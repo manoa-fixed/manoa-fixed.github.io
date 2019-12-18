@@ -44,7 +44,7 @@ Here is the [Landing Page](http://manoafixed.meteorapp.com/#/) :
 
 Now users can use the Add Report button and be directed to the [Add Report form](http://manoafixed.meteorapp.com/#/add) :
 
-<img src="newadd.PNG">
+<img src="neweradd.PNG">
 
 Note the Upload button will allow Drag-&-Drop functionality :
 
@@ -52,11 +52,11 @@ Note the Upload button will allow Drag-&-Drop functionality :
 
 After adding your report, view it in [List Reports](http://manoafixed.meteorapp.com/#/list) :
 
-<img src="listreports.PNG">
+<img src="newerlist.PNG">
 
 You may also [edit your report](http://manoafixed.meteorapp.com/#/edit/kcxGBQEmfePWuYG3c) with the following form :
 
-<img src="edit.PNG">
+<img src="neweredit.PNG">
 
 Lastly, before you go, feel free to [donate](http://manoafixed.meteorapp.com/#/donate) to the maintanence department :
 
